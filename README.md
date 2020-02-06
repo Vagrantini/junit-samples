@@ -6,3 +6,5 @@
 - JDK 13
 - IntelliJ IDEA 2020.1.EAP
 - macOS Catalina 10.15.2
+- JUnit5
+- AssertJ 3.13.2
